@@ -43,9 +43,9 @@ let weather = {
   /* Fetching Data from OpenCageData Geocoder */
   let geocode = {
     reverseGeocode: function (latitude, longitude) {
-      var apikey = "fdc670326b00496ca862cc9dd589b714";
+      var apikey = "6d801cb3d1b34eecb0d680b9fc242cfd";
   
-      var api_url = "https://api.opencagedata.com/geocode/v1/json?q=LAT+LNG&key=fdc670326b00496ca862cc9dd589b714";
+      var api_url = "https://api.opencagedata.com/geocode/v1/json?q=LAT+LNG&key=6d801cb3d1b34eecb0d680b9fc242cfd";
   
       var request_url =
         api_url +
