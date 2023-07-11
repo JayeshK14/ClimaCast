@@ -34,6 +34,7 @@ Contributions are welcome to enhance ClimaCast and make it even better. If you w
 
 ## Credits
 - [OpenWeather API](https://openweathermap.org/api): Used to retrieve weather data.
+- [OpenCage API](https://opencagedata.com/api#quickstart): Used to retrieve user's current location.
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
